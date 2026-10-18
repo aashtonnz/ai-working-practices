@@ -30,8 +30,12 @@ When a change is approved, update this README (the table below and anything else
 
 ## Starting a project
 
-Set up every required practice, using its template. Add a line to the project's own instructions: "This project follows ai-project-guidelines. Read its README whenever you start work on the project." Record the version of each practice the project follows (for the task board, in its header).
+Set up every required practice, using its template. Add a line to the project's own instructions: "This project follows ai-project-guidelines. Read its README at the start of every conversation, and check its CHANGELOG.md at least once a day in longer work." Record the version of each practice the project follows (for the task board, in its header).
+
+Standing instruction, to paste into an AI tool's personal or custom instructions so that every project picks this up:
+
+> For every project, follow the required practices in ai-project-guidelines (github.com/aashtonnz/ai-project-guidelines). Read its README at the start of every conversation, and check its CHANGELOG.md at least once a day in longer work.
 
 ## When a practice changes
 
-Each change is listed in `CHANGELOG.md`, marked either **existing projects: update** or **new projects only**. Whenever you start work on a project, compare its recorded versions with the table above. If a change marked "update" is missing, tell the owner and bring the project in line, under that project's own rules.
+Each change is listed in `CHANGELOG.md`, marked either **existing projects: update** or **new projects only**. At the start of every conversation, and at least once a day in longer work, compare the project's recorded versions with the table above. If a change marked "update" is missing, tell the owner and bring the project in line, under that project's own rules.
