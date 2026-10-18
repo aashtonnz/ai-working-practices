@@ -2,6 +2,7 @@
 
 Newest first. Each entry says whether existing projects should update.
 
+- 18 Oct 2026. README: a project's instructions for AI agents live in `AGENTS.md`; tool-specific files such as `CLAUDE.md` just point to it. Existing projects: update.
 - 18 Oct 2026. Risk list, version 1: Situational. The biggest risks, ranked, each with what could be done and the cheapest early test, which becomes a task. New projects: consider it. Existing projects: consider it if the work has real uncertainty.
 - 18 Oct 2026. Task board 1.6: every open task is on the board; tasks beyond Next sit in a Planned section, one line each, with full descriptions in the plan file. Existing projects: update.
 - 18 Oct 2026. Task board 1.5: every item is accounted for: sub-points needing work get their own task, a reorganisation is checked item by item against the old version, and commitments listed elsewhere point to their tasks. Existing projects: update.
