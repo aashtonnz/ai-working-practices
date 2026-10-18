@@ -32,7 +32,7 @@ Look for such improvements at two moments: when you finish a piece of work, whil
 
 | Practice | Status | Version |
 | --- | --- | --- |
-| [Task board](practices/task-board.md) | **Encouraged** | 1.3 (18 Oct 2026) |
+| [Task board](practices/task-board.md) | **Encouraged** | 1.4 (18 Oct 2026) |
 | [Style guide](practices/style-guide.md) | **Encouraged** | 1 (18 Oct 2026) |
 
 **Encouraged** practices are likely to suit most projects. **Situational** ones suit some projects and not others.

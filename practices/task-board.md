@@ -1,6 +1,6 @@
 # Task board
 
-Version 1.3, 18 Oct 2026.
+Version 1.4, 18 Oct 2026.
 
 One short living document showing what is being done now, what is next, and what is waiting on the person, kept wherever the project's material lives: a file in a repository or folder (for example `TASKS.md`), a document in a chat tool's project, or a shared document. The AI reads it when it starts work and keeps it up to date. Where it can't write there, it gives the updated board for you to save. It works like a text kanban board that a person can scan in a minute and an AI can read at the start of every conversation.
 
@@ -28,8 +28,10 @@ One short living document showing what is being done now, what is next, and what
     *Why:* the board changes daily; decisions need to stay findable.
 11. **Standing priorities, if any, go in a few lines at the top.**
     *Why:* they apply to every task, so they belong where every reader starts.
-12. **Ideas wait in Later.** "Later / ideas" holds things worth doing someday. An idea gets an ID when it is scheduled into Next.
-    *Why:* good ideas have a home without crowding the plan.
+12. **Ideas wait in Later, on the board.** "Later / ideas" holds things worth doing someday, on the board itself, never in a separate list. An idea gets an ID when it is scheduled into Next.
+    *Why:* good ideas have a home without crowding the plan, and stay where the person and the next AI session will see them.
+13. **Nothing the person asked for leaves the board without them knowing.** Every request or decision that needs work becomes a task, or a line in Later, on the board the same day. Moving something out of Next, off the board or into another file is told to the person at the time, with the reason.
+    *Why:* work that slips out of sight is forgotten first by the AI, and the person finds out only when they ask.
 
 ## Template
 
@@ -37,7 +39,7 @@ One short living document showing what is being done now, what is next, and what
 # Tasks
 
 Last updated: YYYY-MM-DD (time zone)
-Follows: task board v1.3 (ai-working-practices)
+Follows: task board v1.4 (ai-working-practices)
 
 Standing priorities:
 - ...
