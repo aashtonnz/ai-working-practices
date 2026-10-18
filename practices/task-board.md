@@ -1,6 +1,6 @@
 # Task board
 
-Version 1.5, 18 Oct 2026.
+Version 1.6, 18 Oct 2026.
 
 One short living document showing what is being done now, what is next, and what is waiting on the person, kept wherever the project's material lives: a file in a repository or folder (for example `TASKS.md`), a document in a chat tool's project, or a shared document. The AI reads it when it starts work and keeps it up to date. Where it can't write there, it gives the updated board for you to save. It works like a text kanban board that a person can scan in a minute and an AI can read at the start of every conversation.
 
@@ -10,8 +10,8 @@ One short living document showing what is being done now, what is next, and what
    *Why:* commits and notes can point at "T-14", and the reference survives reordering, but an ID alone means nothing to someone who hasn't memorised the board. A missing number is never a mystery.
 2. **Doing holds at most three tasks.**
    *Why:* more than three in progress usually means none of them is moving.
-3. **Next is in order and short, about ten tasks at most.** A longer plan goes in its own file (for example `PLAN.md`), by phase, and the board shows only the next steps. The plan holds each task's full description; the board gives it one line.
-   *Why:* the board is for what happens next, not the whole roadmap, and keeping the detail in one place stops the two drifting apart.
+3. **Next is in order and short, about ten tasks at most, and every other open task is still on the board.** Tasks beyond Next sit in a Planned section, one line each, grouped by phase. Their full descriptions go in a plan file (for example `PLAN.md`); the board gives each one line.
+   *Why:* Next stays readable, but no task lives only in the plan, where it is easily forgotten, and keeping the detail in one place stops the two drifting apart.
 4. **Waiting on you is its own section.** Anything that needs the person's decision, approval or action goes here, dated, saying exactly what is needed, with a suggested answer when there is one.
    *Why:* requests buried inside other tasks are easy to miss, and work stalls silently.
 5. **Gates are listed as tasks.** A gate is a checkpoint question whose answer decides whether the plan continues as it is ("Is it fast enough? If not, rethink before building more"). When a gate is passed, record the answer under Done.
@@ -20,7 +20,7 @@ One short living document showing what is being done now, what is next, and what
    *Why:* small tasks show real progress and surface problems early.
 7. **Done shows evidence.** Each finished task has a one-line result, a link to its output (a file, commit, document or page) and the date.
    *Why:* "done" becomes something anyone can check, not just a claim.
-8. **Keep it short.** Move Done items older than about two weeks to an archive file (for example `TASKS-archive.md`), unchanged. Aim for the board to fit on a screen or two.
+8. **Keep it short.** Move Done items older than about two weeks to an archive file (for example `TASKS-archive.md`), unchanged. Aim for everything above Planned to fit on a screen.
    *Why:* a board that cannot be scanned quickly stops being read.
 9. **Update it in the same change as the work, and date it.** The board carries a "last updated" date, with the time zone. If it is found out of date, fix it before anything else.
    *Why:* a stale board misleads both the person and the next AI session.
@@ -41,7 +41,7 @@ One short living document showing what is being done now, what is next, and what
 # Tasks
 
 Last updated: YYYY-MM-DD (time zone)
-Follows: task board v1.5 (ai-working-practices)
+Follows: task board v1.6 (ai-working-practices)
 
 Standing priorities:
 - ...
@@ -56,6 +56,10 @@ Standing priorities:
 - T-08: what it is.
 - Gate A: the question. If no: what happens instead.
 - T-09: what it is.
+
+## Planned (after Next, by phase)
+Phase name:
+- T-15: what it is.
 
 ## Later / ideas
 - An idea, in a line.
