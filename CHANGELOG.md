@@ -2,6 +2,7 @@
 
 Newest first. Each entry says whether existing projects should update.
 
+- 18 Oct 2026. Task board 1.5: every item is accounted for: sub-points needing work get their own task, a reorganisation is checked item by item against the old version, and commitments listed elsewhere point to their tasks. Existing projects: update.
 - 18 Oct 2026. Task board 1.4: Later lives on the board itself, never in a separate list; nothing the person asked for leaves the board without them being told, with the reason. Existing projects: update.
 - 18 Oct 2026. Style guide, version 1: Encouraged. How a project looks, feels and communicates with people outside it; entirely optional. New projects: consider it. Existing projects: no action needed.
 - 18 Oct 2026. README: each diff in a proposal names the file it changes, with its path. Existing projects: no action needed.
