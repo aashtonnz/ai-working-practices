@@ -42,4 +42,6 @@ Standing instruction, to paste into an AI tool's personal or custom instructions
 
 ## When a practice changes
 
-Each change is listed in `CHANGELOG.md`, marked either **existing projects: update** or **new projects only**. At the start of every conversation, and at least once a day in longer work, compare the project's recorded versions with the table above. If a change marked "update" is missing, tell the owner and bring the project in line, under that project's own rules. Then record the new version in the project, including after a change that needs no other action.
+Each change is listed in `CHANGELOG.md`, marked either **existing projects: update** or **new projects only**. At the start of every conversation, and at least once a day in longer work, compare the project's recorded versions with the table above. If a change marked "update" is missing, first consider whether it improves this project. If it does, tell the owner and bring the project in line, under that project's own rules. If it doesn't, don't apply it: raise the concern with the owner instead, since the change may not suit every project and may need revising. Once the project is in line, record the new version in it, including after a change that needs no other action.
+
+A project that uses an optional practice may stay on an earlier version of it, or stop using it. Say why, so the owner can judge whether the practice needs revising.
