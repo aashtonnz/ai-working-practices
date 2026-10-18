@@ -50,7 +50,7 @@ Whenever a project adapts or leaves out a practice, it records what it does diff
 
 Go through the practices as described under Practices above, and set up those that suit the project, using their templates. Add a line to the project's own instructions: "This project follows ai-working-practices. Read its README at the start of every conversation, and check its CHANGELOG.md at least once a day in longer work." Record the version of each practice the project follows (for the task board, in its header).
 
-Keep the project's own instructions for AI agents in `AGENTS.md` at the top of the project, the shared file name many AI tools read. Where a tool reads a file of its own (for example `CLAUDE.md`), keep that file to a line pointing to `AGENTS.md`, so every tool follows the same instructions. Where the project's material isn't in files (a chat tool's project, say), keep the instructions wherever that tool reads them.
+Keep the project's own instructions for AI agents in `AGENTS.md` at the top of the project, the shared file name many AI tools read. Where a tool reads a file of its own (for example `CLAUDE.md`), keep that file to a line pointing to `AGENTS.md`, so every tool follows the same instructions. Where the project's material isn't in files (a chat tool's project, say), keep the instructions wherever that tool reads them. Where a project has both, such as a repository also worked on through a chat tool's project, keep the instructions in `AGENTS.md`, and keep the chat tool's instructions to a line saying where to find it.
 
 Standing instruction, to paste into an AI tool's personal or custom instructions so that every project picks this up:
 

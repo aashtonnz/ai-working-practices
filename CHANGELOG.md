@@ -2,6 +2,7 @@
 
 Newest first. Each entry says whether existing projects should update.
 
+- 19 Oct 2026. README: a project with both a repository and a chat tool's project keeps its instructions in `AGENTS.md`, and the chat tool's instructions just say where to find it. Existing projects with both: update.
 - 18 Oct 2026. README: a conversation resumed from a summary of an earlier one counts as new, so the start-of-conversation check runs again. Existing projects: no action needed.
 - 18 Oct 2026. README: a project's instructions for AI agents live in `AGENTS.md`; tool-specific files such as `CLAUDE.md` just point to it. Existing projects: update.
 - 18 Oct 2026. Risk list, version 1: Situational. The biggest risks, ranked, each with what could be done and the cheapest early test, which becomes a task. New projects: consider it. Existing projects: consider it if the work has real uncertainty.
