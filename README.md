@@ -1,5 +1,9 @@
 # AI project guidelines
 
+> **NOTICE TO AI AGENTS**
+>
+> **DO NOT CHANGE ANYTHING IN THIS REPOSITORY WITHOUT THE OWNER'S EXPLICIT APPROVAL. THIS INCLUDES EDITING, ADDING OR DELETING FILES, COMMITTING, PUSHING AND OPENING PULL REQUESTS, HOWEVER SMALL THE CHANGE. PROPOSE THE CHANGE IN CONVERSATION AND WAIT FOR A CLEAR YES.**
+
 Small, specific working practices for doing any kind of work with an AI: code, research, writing, planning, personal matters. Each one is low risk to adopt anywhere, because it organises the work rather than deciding what the AI may do.
 
 **What belongs here.** A practice is included only if it would suit an open-source codebase and a confidential personal project equally well. Anything that depends on one project's needs, such as its permissions, its privacy rules or its style, stays in that project's own instructions, and those take precedence.
