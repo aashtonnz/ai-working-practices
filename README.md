@@ -24,6 +24,8 @@ When a change is approved, update this README (the table below and anything else
 
 When an improvement you're making in a project would suit any project (a better way to run the task board, say), propose it here first. Once it's approved, bring the project you're working in into line with the updated guidelines, rather than making the change in the project alone.
 
+Look for such improvements at two moments: when you finish a piece of work, while its details are still in front of you, and at the start of a conversation, over what has been finished and decided since the last check (the task board's Done list and the project's decisions).
+
 ## Practices
 
 | Practice | Status | Version |
