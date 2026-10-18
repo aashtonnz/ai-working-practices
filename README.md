@@ -30,7 +30,7 @@ Look for such improvements at two moments: when you finish a piece of work, whil
 
 | Practice | Status | Version |
 | --- | --- | --- |
-| [Task board](practices/task-board.md) | **Required** in every project | 1.2 (18 Oct 2026) |
+| [Task board](practices/task-board.md) | **Required** in every project | 1.3 (18 Oct 2026) |
 
 **Required** practices are used in every project. **Optional** ones are there to use when they fit.
 
