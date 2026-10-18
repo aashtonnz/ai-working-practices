@@ -2,10 +2,10 @@
 
 Last updated: 2026-10-18 (Pacific/Auckland)
 Follows: task board v1.3 (ai-working-practices)
-Caught up to: c4029d2
+Caught up to: c6a4a63
 
 ## Doing (at most 3)
-- T-5: Design guidelines: a situational practice for shared design and style rules, which projects may replace with their own. Discussing with the owner.
+- T-5: Design guidelines: an Encouraged practice for shared style rules, which projects may adapt or replace. Agreed: covers everything about look and feel and communication, including automated emails; code style is left out. Next: discuss with the owner what the rules should be, before drafting.
 
 ## Waiting on you
 
