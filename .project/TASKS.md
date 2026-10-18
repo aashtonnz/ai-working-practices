@@ -2,7 +2,7 @@
 
 Last updated: 2026-10-18 (Pacific/Auckland)
 Follows: task board v1.3 (ai-working-practices)
-Caught up to: e8027aa
+Caught up to: 21d80f6
 
 ## Doing (at most 3)
 
@@ -16,5 +16,6 @@ Caught up to: e8027aa
 ## Later / ideas
 
 ## Done (last two weeks, newest first)
+- T-6: Proposal format: each diff in a proposal is immediately preceded by what it changes and why. [README](../README.md#for-ai-agents) 2026-10-18.
 - T-2: Nothing compulsory: practices are Encouraged or Situational, and a project uses, adapts or leaves out each one, recording why. [README](../README.md#practices) 2026-10-18.
 - T-1: Project setup: this repository is set up as its own project, in `.project/`. [.project/](./) 2026-10-18.

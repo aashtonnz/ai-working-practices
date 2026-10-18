@@ -2,6 +2,7 @@
 
 Newest first. Each entry says whether existing projects should update.
 
+- 18 Oct 2026. README: a proposal is split into its meaningful parts, each diff immediately preceded by what it changes and why. Existing projects: no action needed.
 - 18 Oct 2026. README: nothing is compulsory. Practices are Encouraged (likely to suit most projects) or Situational; a project uses, adapts or leaves out each one, proposing general improvements here first and recording any difference and why. The task board is now Encouraged. Existing projects: no action needed (update the standing instruction in personal instructions to the new wording).
 - 18 Oct 2026. README: this repository is run as its own project, with its board and notes in `.project/`, which other projects ignore and don't update. Existing projects: no action needed.
 - 18 Oct 2026. Task board 1.3: every task has a short name, and tasks are called by name when talking to the person. Existing projects: update.
