@@ -18,13 +18,15 @@ Suggest improvements freely, whenever you see one. We want this repository to be
 
 This README may be changed like any other file, with approval, except for the notice at the top: never change or remove it, and never propose to.
 
+When you propose a change, give a simple description of each meaningful change, followed by its exact diff. Leave out bookkeeping such as version numbers and the changelog, which are updated as a matter of course.
+
 When a change is approved, update this README (the table below and anything else the change affects) and `CHANGELOG.md` in the same change.
 
 ## Practices
 
 | Practice | Status | Version |
 | --- | --- | --- |
-| [Task board](practices/task-board.md) | **Required** in every project | 1 (18 Oct 2026) |
+| [Task board](practices/task-board.md) | **Required** in every project | 1.1 (18 Oct 2026) |
 
 **Required** practices are used in every project. **Optional** ones are there to use when they fit.
 

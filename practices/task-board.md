@@ -1,8 +1,8 @@
 # Task board
 
-Version 1, 18 Oct 2026.
+Version 1.1, 18 Oct 2026.
 
-One short file, kept with the project (for example `TASKS.md`), showing what is being done now, what is next, and what is waiting on the person. It works like a text kanban board that a person can scan in a minute and an AI can read at the start of every session.
+One short living document showing what is being done now, what is next, and what is waiting on the person, kept wherever the project's material lives: a file in a repository or folder (for example `TASKS.md`), a document in a chat tool's project, or a shared document. The AI reads it when it starts work and keeps it up to date. Where it can't write there, it gives the updated board for you to save. It works like a text kanban board that a person can scan in a minute and an AI can read at the start of every conversation.
 
 ## The rules, and why
 
@@ -37,7 +37,7 @@ One short file, kept with the project (for example `TASKS.md`), showing what is 
 # Tasks
 
 Last updated: YYYY-MM-DD (time zone)
-Follows: task board v1 (ai-project-guidelines)
+Follows: task board v1.1 (ai-project-guidelines)
 
 Standing priorities:
 - ...
