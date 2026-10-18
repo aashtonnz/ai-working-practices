@@ -2,6 +2,8 @@
 
 Newest first. Each entry says whether existing projects should update.
 
+- 18 Oct 2026. README: this repository is run as its own project, with its board and notes in `.project/`, which other projects ignore and don't update. Existing projects: no action needed.
+
 - 18 Oct 2026. Task board 1.3: every task has a short name, and tasks are called by name when talking to the person. Existing projects: update.
 - 18 Oct 2026. Task board 1.2: note retired task IDs in one line; the plan holds each task's full description and the board gives it one line. Existing projects: update.
 - 18 Oct 2026. Renamed from ai-project-guidelines to ai-working-practices. Existing projects: update the name in the project's instructions and the task board's "Follows" line.

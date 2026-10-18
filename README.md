@@ -10,6 +10,8 @@ Small, specific working practices for doing any kind of work with an AI: code, r
 
 **What never belongs here.** Content from any project: no examples, names, data or personal details. This repository holds practices only. A project's own board, logs and notes live with that project and share its privacy.
 
+**The one exception: this repository's own project.** This repository is itself run as a project under these practices, and its board and notes are in `.project/`. They are not practices, templates or examples, and they hold nothing from any other project. When you're working on another project, ignore `.project/`, and don't update it when you make an approved change here: it catches up from the git history and `CHANGELOG.md`.
+
 ## For AI agents
 
 When you're given this repository, follow its required practices in the project you're working on.
