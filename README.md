@@ -1,4 +1,4 @@
-# AI project guidelines
+# AI working practices
 
 > **NOTICE TO AI AGENTS**
 >
@@ -22,7 +22,7 @@ When you propose a change, give a simple description of each meaningful change, 
 
 When a change is approved, update this README (the table below and anything else the change affects) and `CHANGELOG.md` in the same change.
 
-When an improvement you're making in a project would suit any project (a better way to run the task board, say), propose it here first. Once it's approved, bring the project you're working in into line with the updated guidelines, rather than making the change in the project alone.
+When an improvement you're making in a project would suit any project (a better way to run the task board, say), propose it here first. Once it's approved, bring the project you're working in into line with the updated practices, rather than making the change in the project alone.
 
 Look for such improvements at two moments: when you finish a piece of work, while its details are still in front of you, and at the start of a conversation, over what has been finished and decided since the last check (the task board's Done list and the project's decisions).
 
@@ -36,11 +36,11 @@ Look for such improvements at two moments: when you finish a piece of work, whil
 
 ## Starting a project
 
-Set up every required practice, using its template. Add a line to the project's own instructions: "This project follows ai-project-guidelines. Read its README at the start of every conversation, and check its CHANGELOG.md at least once a day in longer work." Record the version of each practice the project follows (for the task board, in its header).
+Set up every required practice, using its template. Add a line to the project's own instructions: "This project follows ai-working-practices. Read its README at the start of every conversation, and check its CHANGELOG.md at least once a day in longer work." Record the version of each practice the project follows (for the task board, in its header).
 
 Standing instruction, to paste into an AI tool's personal or custom instructions so that every project picks this up:
 
-> For every project, follow the required practices in ai-project-guidelines (github.com/aashtonnz/ai-project-guidelines). Read its README at the start of every conversation, and check its CHANGELOG.md at least once a day in longer work.
+> For every project, follow the required practices in ai-working-practices (github.com/aashtonnz/ai-working-practices). Read its README at the start of every conversation, and check its CHANGELOG.md at least once a day in longer work.
 
 ## When a practice changes
 

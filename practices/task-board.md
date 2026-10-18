@@ -37,7 +37,7 @@ One short living document showing what is being done now, what is next, and what
 # Tasks
 
 Last updated: YYYY-MM-DD (time zone)
-Follows: task board v1.1 (ai-project-guidelines)
+Follows: task board v1.1 (ai-working-practices)
 
 Standing priorities:
 - ...
