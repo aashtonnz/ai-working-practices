@@ -2,15 +2,15 @@
 
 Last updated: 2026-10-18 (Pacific/Auckland)
 Follows: task board v1.3 (ai-working-practices)
-Caught up to: 5c64540
+Caught up to: 0ccd8d3
 
 ## Doing (at most 3)
+- T-4: Personal notes: how personal notes and prompts kept outside the project (for example in Apple Notes under the project's name) relate to it. Discussing with the owner.
 
 ## Waiting on you
 
 ## Next (in order, at most about 10)
 - T-3: Accounts and secrets: a practice for tracking secrets, tokens, email addresses, recovery documents and accounts (GitHub, Cloudflare, social media), without holding any values. Paused 2026-10-18. Agreed so far: a register of what exists and where each value is kept, never the values; values stay in Apple Passwords, in a group of their own. Open: one central private register shared by all projects, or one per project.
-- T-4: Personal notes: how personal notes and prompts kept outside the project (for example in Apple Notes under the project's name) relate to it.
 - T-5: Design guidelines: a situational practice for shared design and style rules, which projects may replace with their own.
 
 ## Later / ideas
