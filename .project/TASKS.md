@@ -2,10 +2,9 @@
 
 Last updated: 2026-10-18 (Pacific/Auckland)
 Follows: task board v1.3 (ai-working-practices)
-Caught up to: 0ccd8d3
+Caught up to: 84cfd62
 
 ## Doing (at most 3)
-- T-4: Personal notes: how personal notes and prompts kept outside the project (for example in Apple Notes under the project's name) relate to it. Discussing with the owner.
 
 ## Waiting on you
 
@@ -14,8 +13,10 @@ Caught up to: 0ccd8d3
 - T-5: Design guidelines: a situational practice for shared design and style rules, which projects may replace with their own.
 
 ## Later / ideas
+- A rule that the AI never opens, searches or reads notes apps or other personal stores, working only with what the person pastes or attaches. Raised under Personal notes.
 
 ## Done (last two weeks, newest first)
+- T-4: Personal notes: no practice needed for now; the owner keeps notes in Apple Notes and pastes what's relevant into conversations, which works. Decided in conversation 2026-10-18.
 - T-8: Diffs name their files: each diff in a proposal names the file it changes, with its path. [README](../README.md#for-ai-agents) 2026-10-18.
 - T-7: Standing approval for `.project/`: agents working directly on this project may update its board and notes without asking; everything else, including `.project/README.md`, still needs the owner's yes. [.project/README.md](README.md) 2026-10-18.
 - T-6: Proposal format: each diff in a proposal is immediately preceded by what it changes and why. [README](../README.md#for-ai-agents) 2026-10-18.
