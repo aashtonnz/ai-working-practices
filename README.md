@@ -10,7 +10,7 @@ Small, specific working practices for doing any kind of work with an AI: code, r
 
 **What never belongs here.** Content from any project: no examples, names, data or personal details. This repository holds practices only. A project's own board, logs and notes live with that project and share its privacy.
 
-**The one exception: this repository's own project.** This repository is itself run as a project under these practices, and its board and notes are in `.project/`. They are not practices, templates or examples, and they hold nothing from any other project. When you're working on another project, ignore `.project/`, and don't update it when you make an approved change here: it catches up from the git history and `CHANGELOG.md`.
+**The one exception: this repository's own project.** This repository is itself run as a project under these practices, and its board and notes are in `.project/`. They are not practices, templates or examples, and they hold nothing from any other project. When you're working on another project, ignore `.project/`, and don't update it when you make an approved change here: it catches up from the git history and `CHANGELOG.md`. Agents asked to work directly on ai-working-practices, as their core project, have the owner's standing approval to update the board and notes in `.project/`, and only those; `.project/README.md` sets out exactly what that covers.
 
 ## For AI agents
 
@@ -20,7 +20,7 @@ Suggest improvements freely, whenever you see one. We want this repository to be
 
 This README may be changed like any other file, with approval, except for the notice at the top: never change or remove it, and never propose to.
 
-When you propose a change, split it into its meaningful parts. Immediately above each part's exact diff, say in plain words what it changes and why. Leave out bookkeeping such as version numbers and the changelog, which are updated as a matter of course.
+When you propose a change, split it into its meaningful parts. Immediately above each part's exact diff, say in plain words what it changes and why. Each diff names the file it changes, with its path from the top of the repository. Leave out bookkeeping such as version numbers and the changelog, which are updated as a matter of course.
 
 When a change is approved, update this README (the table below and anything else the change affects) and `CHANGELOG.md` in the same change.
 
