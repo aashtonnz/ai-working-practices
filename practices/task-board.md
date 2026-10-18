@@ -1,5 +1,7 @@
 # Task board
 
+Version 1, 18 Oct 2026.
+
 One short file, kept with the project (for example `TASKS.md`), showing what is being done now, what is next, and what is waiting on the person. It works like a text kanban board that a person can scan in a minute and an AI can read at the start of every session.
 
 ## The rules, and why
@@ -35,6 +37,7 @@ One short file, kept with the project (for example `TASKS.md`), showing what is 
 # Tasks
 
 Last updated: YYYY-MM-DD (time zone)
+Follows: task board v1 (ai-project-guidelines)
 
 Standing priorities:
 - ...

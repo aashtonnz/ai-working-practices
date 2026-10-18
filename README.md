@@ -10,6 +10,28 @@ Small, specific working practices for doing any kind of work with an AI: code, r
 
 **What never belongs here.** Content from any project: no examples, names, data or personal details. This repository holds practices only. A project's own board, logs and notes live with that project and share its privacy.
 
+## For AI agents
+
+When you're given this repository, follow its required practices in the project you're working on.
+
+Suggest improvements freely, whenever you see one. We want this repository to be excellent and expect it to change often. Every change still needs the owner's approval (see the notice above).
+
+This README may be changed like any other file, with approval, except for the notice at the top: never change or remove it, and never propose to.
+
+When a change is approved, update this README (the table below and anything else the change affects) and `CHANGELOG.md` in the same change.
+
 ## Practices
 
-- [Task board](practices/task-board.md): one short file showing what is being done, what is next, and what is waiting on the person.
+| Practice | Status | Version |
+| --- | --- | --- |
+| [Task board](practices/task-board.md) | **Required** in every project | 1 (18 Oct 2026) |
+
+**Required** practices are used in every project. **Optional** ones are there to use when they fit.
+
+## Starting a project
+
+Set up every required practice, using its template. Add a line to the project's own instructions: "This project follows ai-project-guidelines. Read its README whenever you start work on the project." Record the version of each practice the project follows (for the task board, in its header).
+
+## When a practice changes
+
+Each change is listed in `CHANGELOG.md`, marked either **existing projects: update** or **new projects only**. Whenever you start work on a project, compare its recorded versions with the table above. If a change marked "update" is missing, tell the owner and bring the project in line, under that project's own rules.
