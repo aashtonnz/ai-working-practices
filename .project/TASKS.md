@@ -2,10 +2,9 @@
 
 Last updated: 2026-10-18 (Pacific/Auckland)
 Follows: task board v1.3 (ai-working-practices)
-Caught up to: 9e0e937
+Caught up to: 5e15587
 
 ## Doing (at most 3)
-- T-5: Design guidelines: an Encouraged practice for shared style rules, which projects may adapt or replace. Agreed: external communication only (anything public counts as external); clean, simple, calm, utilitarian but human; the owner's communication rules; styles defined by role; if in doubt follow shadcn/ui, with platform guidelines on native apps and WCAG as a floor. Next: owner reviews the draft.
 
 ## Waiting on you
 
@@ -16,6 +15,7 @@ Caught up to: 9e0e937
 - A rule that the AI never opens, searches or reads notes apps or other personal stores, working only with what the person pastes or attaches. Raised under Personal notes.
 
 ## Done (last two weeks, newest first)
+- T-5: Design guidelines: new Encouraged practice, the style guide, covering external look, feel and communication; entirely optional; if in doubt, shadcn/ui. [practices/style-guide.md](../practices/style-guide.md) 2026-10-18.
 - T-4: Personal notes: no practice needed for now; the owner keeps notes in Apple Notes and pastes what's relevant into conversations, which works. Decided in conversation 2026-10-18.
 - T-8: Diffs name their files: each diff in a proposal names the file it changes, with its path. [README](../README.md#for-ai-agents) 2026-10-18.
 - T-7: Standing approval for `.project/`: agents working directly on this project may update its board and notes without asking; everything else, including `.project/README.md`, still needs the owner's yes. [.project/README.md](README.md) 2026-10-18.
