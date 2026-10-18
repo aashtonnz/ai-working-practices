@@ -14,7 +14,7 @@ Small, specific working practices for doing any kind of work with an AI: code, r
 
 ## For AI agents
 
-When you're given this repository, follow its required practices in the project you're working on.
+When you're given this repository, use its practices in the project you're working on, as described under Practices below.
 
 Suggest improvements freely, whenever you see one. We want this repository to be excellent and expect it to change often. Every change still needs the owner's approval (see the notice above).
 
@@ -32,20 +32,28 @@ Look for such improvements at two moments: when you finish a piece of work, whil
 
 | Practice | Status | Version |
 | --- | --- | --- |
-| [Task board](practices/task-board.md) | **Required** in every project | 1.3 (18 Oct 2026) |
+| [Task board](practices/task-board.md) | **Encouraged** | 1.3 (18 Oct 2026) |
 
-**Required** practices are used in every project. **Optional** ones are there to use when they fit.
+**Encouraged** practices are likely to suit most projects. **Situational** ones suit some projects and not others.
+
+**Neither has to be used.** For each practice, consider honestly and with an open mind which of these applies:
+
+- **It suits the project as it is.** Use it.
+- **It would suit the project with changes.** If the changes would suit every project, propose them here first, and adopt the improved practice once it's approved. If they suit only this project, adopt the practice with those changes.
+- **It doesn't suit the project.** Leave it out. First check whether what the project needs instead would suit every project, and if so propose it here.
+
+Whenever a project adapts or leaves out a practice, it records what it does differently and why, in its own instructions or decision log, and tells the owner, who can judge whether the practice needs revising. Convenience alone is not a reason.
 
 ## Starting a project
 
-Set up every required practice, using its template. Add a line to the project's own instructions: "This project follows ai-working-practices. Read its README at the start of every conversation, and check its CHANGELOG.md at least once a day in longer work." Record the version of each practice the project follows (for the task board, in its header).
+Go through the practices as described under Practices above, and set up those that suit the project, using their templates. Add a line to the project's own instructions: "This project follows ai-working-practices. Read its README at the start of every conversation, and check its CHANGELOG.md at least once a day in longer work." Record the version of each practice the project follows (for the task board, in its header).
 
 Standing instruction, to paste into an AI tool's personal or custom instructions so that every project picks this up:
 
-> For every project, follow the required practices in ai-working-practices (github.com/aashtonnz/ai-working-practices). Read its README at the start of every conversation, and check its CHANGELOG.md at least once a day in longer work.
+> For every project, use the practices in ai-working-practices (github.com/aashtonnz/ai-working-practices) as its README describes. Read its README at the start of every conversation, and check its CHANGELOG.md at least once a day in longer work.
 
 ## When a practice changes
 
 Each change is listed in `CHANGELOG.md`, marked either **existing projects: update** or **new projects only**. At the start of every conversation, and at least once a day in longer work, compare the project's recorded versions with the table above. If a change marked "update" is missing, first consider whether it improves this project. If it does, tell the owner and bring the project in line, under that project's own rules. If it doesn't, don't apply it: raise the concern with the owner instead, since the change may not suit every project and may need revising. Once the project is in line, record the new version in it, including after a change that needs no other action.
 
-A project that uses an optional practice may stay on an earlier version of it, or stop using it. Say why, so the owner can judge whether the practice needs revising.
+Any project may likewise stay on an earlier version of a practice, or stop using it, on the terms under Practices above.
