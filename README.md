@@ -32,7 +32,7 @@ Look for such improvements at two moments: when you finish a piece of work, whil
 
 | Practice | Status | Version |
 | --- | --- | --- |
-| [Task board](practices/task-board.md) | **Encouraged** | 1.6 (18 Oct 2026) |
+| [Task board](practices/task-board.md) | **Encouraged** | 1.7 (19 Oct 2026) |
 | [Style guide](practices/style-guide.md) | **Encouraged** | 1 (18 Oct 2026) |
 | [Risk list](practices/risk-list.md) | **Situational** | 1 (18 Oct 2026) |
 

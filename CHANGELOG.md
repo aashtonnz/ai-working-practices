@@ -2,6 +2,7 @@
 
 Newest first. Each entry says whether existing projects should update.
 
+- 19 Oct 2026. Task board 1.7: decisions get a permanent ID and a short name, and anything a project numbers (decisions, risks) is called by name when talking to the person, as tasks are. Existing projects: update.
 - 19 Oct 2026. README: a project with both a repository and a chat tool's project keeps its instructions in `AGENTS.md`, and the chat tool's instructions just say where to find it. Existing projects with both: update.
 - 18 Oct 2026. README: a conversation resumed from a summary of an earlier one counts as new, so the start-of-conversation check runs again. Existing projects: no action needed.
 - 18 Oct 2026. README: a project's instructions for AI agents live in `AGENTS.md`; tool-specific files such as `CLAUDE.md` just point to it. Existing projects: update.
