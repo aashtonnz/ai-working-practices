@@ -22,6 +22,8 @@ When you propose a change, give a simple description of each meaningful change, 
 
 When a change is approved, update this README (the table below and anything else the change affects) and `CHANGELOG.md` in the same change.
 
+When an improvement you're making in a project would suit any project (a better way to run the task board, say), propose it here first. Once it's approved, bring the project you're working in into line with the updated guidelines, rather than making the change in the project alone.
+
 ## Practices
 
 | Practice | Status | Version |
@@ -40,4 +42,4 @@ Standing instruction, to paste into an AI tool's personal or custom instructions
 
 ## When a practice changes
 
-Each change is listed in `CHANGELOG.md`, marked either **existing projects: update** or **new projects only**. At the start of every conversation, and at least once a day in longer work, compare the project's recorded versions with the table above. If a change marked "update" is missing, tell the owner and bring the project in line, under that project's own rules.
+Each change is listed in `CHANGELOG.md`, marked either **existing projects: update** or **new projects only**. At the start of every conversation, and at least once a day in longer work, compare the project's recorded versions with the table above. If a change marked "update" is missing, tell the owner and bring the project in line, under that project's own rules. Then record the new version in the project, including after a change that needs no other action.
