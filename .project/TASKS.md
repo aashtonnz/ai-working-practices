@@ -2,10 +2,10 @@
 
 Last updated: 2026-10-18 (Pacific/Auckland)
 Follows: task board v1.3 (ai-working-practices)
-Caught up to: c6a4a63
+Caught up to: 9e0e937
 
 ## Doing (at most 3)
-- T-5: Design guidelines: an Encouraged practice for shared style rules, which projects may adapt or replace. Agreed: covers everything about look and feel and communication, including automated emails; code style is left out. Next: discuss with the owner what the rules should be, before drafting.
+- T-5: Design guidelines: an Encouraged practice for shared style rules, which projects may adapt or replace. Agreed: external communication only (anything public counts as external); clean, simple, calm, utilitarian but human; the owner's communication rules; styles defined by role; if in doubt follow shadcn/ui, with platform guidelines on native apps and WCAG as a floor. Next: owner reviews the draft.
 
 ## Waiting on you
 
