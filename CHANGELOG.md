@@ -2,6 +2,7 @@
 
 Newest first. Each entry says whether existing projects should update.
 
+- 19 Oct 2026. README: the changelog labels are described as they are used ("Existing projects: update", "Existing projects: no action needed", and "New projects: consider it" for a new practice); agents fetch immediately before editing this repository and push straight after; this repository's `CLAUDE.md` points to `AGENTS.md`. Existing projects: no action needed.
 - 19 Oct 2026. README: the repository is a library of practices a project draws on, learnt from experience or the owner's preferences; the README and each practice stay short, and a new rule replaces or merges with an old one where it can. Existing projects: no action needed.
 - 19 Oct 2026. Task board 1.8: the decision log is defined: a file next to the board, newest first, each line dated with what was decided and why. Existing projects: no action needed; a log kept elsewhere is fine.
 - 19 Oct 2026. Task board 1.7: decisions get a permanent ID and a short name, and anything a project numbers (decisions, risks) is called by name when talking to the person, as tasks are. Existing projects: update.

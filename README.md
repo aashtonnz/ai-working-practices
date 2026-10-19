@@ -26,6 +26,8 @@ When you propose a change, split it into its meaningful parts. Immediately above
 
 When a change is approved, update this README (the table below and anything else the change affects) and `CHANGELOG.md` in the same change.
 
+Several sessions change this repository, sometimes at the same time. Fetch the latest version immediately before editing, read anything that changed in the files you're about to touch, and push straight after.
+
 When an improvement you're making in a project would suit any project (a better way to run the task board, say), propose it here first. Once it's approved, bring the project you're working in into line with the updated practices, rather than making the change in the project alone.
 
 Look for such improvements at two moments: when you finish a piece of work, while its details are still in front of you, and at the start of a conversation, over what has been finished and decided since the last check (the task board's Done list and the project's decisions).
@@ -60,6 +62,6 @@ Standing instruction, to paste into an AI tool's personal or custom instructions
 
 ## When a practice changes
 
-Each change is listed in `CHANGELOG.md`, marked either **existing projects: update** or **new projects only**. At the start of every conversation (a conversation resumed from a summary of an earlier one counts as new), and at least once a day in longer work, compare the project's recorded versions with the table above. If a change marked "update" is missing, first consider whether it improves this project. If it does, tell the owner and bring the project in line, under that project's own rules. If it doesn't, don't apply it: raise the concern with the owner instead, since the change may not suit every project and may need revising. Once the project is in line, record the new version in it, including after a change that needs no other action.
+Each change is listed in `CHANGELOG.md`, ending with what existing projects should do: **Existing projects: update** (bring the project in line) or **Existing projects: no action needed**, either sometimes followed by a short detail. A new practice also says **New projects: consider it**. At the start of every conversation (a conversation resumed from a summary of an earlier one counts as new), and at least once a day in longer work, compare the project's recorded versions with the table above. If a change marked "update" is missing, first consider whether it improves this project. If it does, tell the owner and bring the project in line, under that project's own rules. If it doesn't, don't apply it: raise the concern with the owner instead, since the change may not suit every project and may need revising. Once the project is in line, record the new version in it, including after a change that needs no other action.
 
 Any project may likewise stay on an earlier version of a practice, or stop using it, on the terms under Practices above.

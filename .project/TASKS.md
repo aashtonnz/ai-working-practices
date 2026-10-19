@@ -2,7 +2,7 @@
 
 Last updated: 2026-10-19 (Pacific/Auckland)
 Follows: task board v1.8 (ai-working-practices)
-Caught up to: be870f6
+Caught up to: 5174c78
 
 ## Doing (at most 3)
 
@@ -17,6 +17,7 @@ Caught up to: be870f6
 - A rule that the AI never opens, searches or reads notes apps or other personal stores, working only with what the person pastes or attaches. Raised under Personal notes.
 
 ## Done (last two weeks, newest first)
+- T-11: Housekeeping from the review: changelog labels described as used, fetch-before-editing sentence, `CLAUDE.md` points to `AGENTS.md`, and a pointer doc in the claude.ai Project. [README](../README.md#for-ai-agents) 2026-10-19.
 - T-10: Purpose stated: the README says the repository is a library a project draws on, and that the README and each practice stay short. [README](../README.md) 2026-10-19.
 - T-9: Decision log defined: task board 1.8 says where the log lives and what a line holds, so the references to it point at something. [practices/task-board.md](../practices/task-board.md) 2026-10-19.
 - From other projects: Task board 1.7, decisions get IDs and short names; numbered items called by name. [be870f6](../practices/task-board.md) 2026-10-19.
