@@ -2,6 +2,8 @@
 
 Newest first. Each entry says whether existing projects should update.
 
+- 19 Oct 2026. README: the repository is a library of practices a project draws on, learnt from experience or the owner's preferences; the README and each practice stay short, and a new rule replaces or merges with an old one where it can. Existing projects: no action needed.
+- 19 Oct 2026. Task board 1.8: the decision log is defined: a file next to the board, newest first, each line dated with what was decided and why. Existing projects: no action needed; a log kept elsewhere is fine.
 - 19 Oct 2026. Task board 1.7: decisions get a permanent ID and a short name, and anything a project numbers (decisions, risks) is called by name when talking to the person, as tasks are. Existing projects: update.
 - 19 Oct 2026. README: a project with both a repository and a chat tool's project keeps its instructions in `AGENTS.md`, and the chat tool's instructions just say where to find it. Existing projects with both: update.
 - 18 Oct 2026. README: a conversation resumed from a summary of an earlier one counts as new, so the start-of-conversation check runs again. Existing projects: no action needed.

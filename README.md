@@ -4,7 +4,9 @@
 >
 > **DO NOT CHANGE ANYTHING IN THIS REPOSITORY WITHOUT THE OWNER'S EXPLICIT APPROVAL. THIS INCLUDES EDITING, ADDING OR DELETING FILES, COMMITTING, PUSHING AND OPENING PULL REQUESTS, HOWEVER SMALL THE CHANGE. PROPOSE THE CHANGE IN CONVERSATION AND WAIT FOR A CLEAR YES.**
 
-Small, specific working practices for doing any kind of work with an AI: code, research, writing, planning, personal matters. Each one is low risk to adopt anywhere, because it organises the work rather than deciding what the AI may do.
+A library of working practices for projects to draw on, for any kind of work with an AI: code, research, writing, planning, personal matters. Some are learnt from experience, some are the owner's preferences, and a project takes what helps. Each one is low risk to adopt anywhere, because it organises the work rather than deciding what the AI may do.
+
+The library may grow, but this README and each practice stay short, because an AI reads them at the start of every conversation and follows fewer rules better than more. A new rule in a practice earns its place by replacing or merging with an old one where it can.
 
 **What belongs here.** A practice is included only if it would suit an open-source codebase and a confidential personal project equally well. Anything that depends on one project's needs, such as its permissions, its privacy rules or its style, stays in that project's own instructions, and those take precedence.
 
@@ -32,7 +34,7 @@ Look for such improvements at two moments: when you finish a piece of work, whil
 
 | Practice | Status | Version |
 | --- | --- | --- |
-| [Task board](practices/task-board.md) | **Encouraged** | 1.7 (19 Oct 2026) |
+| [Task board](practices/task-board.md) | **Encouraged** | 1.8 (19 Oct 2026) |
 | [Style guide](practices/style-guide.md) | **Encouraged** | 1 (18 Oct 2026) |
 | [Risk list](practices/risk-list.md) | **Situational** | 1 (18 Oct 2026) |
 
