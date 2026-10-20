@@ -4,7 +4,9 @@ The `.project/` folder is for working on ai-working-practices itself. It is not 
 
 This project follows ai-working-practices: the practices in this repository apply to the repository too. Read the main README at the start of every conversation, and check CHANGELOG.md at least once a day in longer work.
 
-Changes also arrive from other projects, with the owner's approval, and they don't update `.project/`. At the start of every conversation, catch up: list the commits since the one recorded on the task board ("Caught up to"), add each one made elsewhere to Done with a one-line result and its CHANGELOG entry, and record the latest commit.
+Changes also arrive from other projects, with the owner's approval, and they don't update `.project/`. At the start of every conversation, catch up: list the commits since the one recorded on the task board ("Caught up to"), add each one made elsewhere to Done with a one-line result and its CHANGELOG entry, and record the latest commit. A commit can't name itself, so the marker usually trails by one commit made here, whose Done line is already on the board; it needs nothing more.
+
+This project's decisions are changes to the practices, so `CHANGELOG.md` serves as its decision log, with no separate file. A decision that changes nothing is recorded in its task's Done line.
 
 ## What you may change without asking
 

@@ -12,21 +12,13 @@ The library may grow, but this README and each practice stay short, because an A
 
 **What never belongs here.** Content from any project: no examples, names, data or personal details. This repository holds practices only. A project's own board, logs and notes live with that project and share its privacy.
 
-**The one exception: this repository's own project.** This repository is itself run as a project under these practices, and its board and notes are in `.project/`. They are not practices, templates or examples, and they hold nothing from any other project. When you're working on another project, ignore `.project/`, and don't update it when you make an approved change here: it catches up from the git history and `CHANGELOG.md`. Agents asked to work directly on ai-working-practices, as their core project, have the owner's standing approval to update the board and notes in `.project/`, and only those; `.project/README.md` sets out exactly what that covers.
+**The one exception: this repository's own project.** This repository is itself run as a project under these practices, and its board and notes are in `.project/`. They are not practices, templates or examples, and they hold nothing from any other project. When you're working on another project, ignore `.project/`, and don't update it when you make an approved change here. If you're asked to work on ai-working-practices itself, start with `.project/README.md`, which also sets out what you may change there without asking.
 
 ## For AI agents
 
 When you're given this repository, use its practices in the project you're working on, as described under Practices below.
 
-Suggest improvements freely, whenever you see one. We want this repository to be excellent and expect it to change often. Every change still needs the owner's approval (see the notice above).
-
-This README may be changed like any other file, with approval, except for the notice at the top: never change or remove it, and never propose to.
-
-When you propose a change, split it into its meaningful parts. Immediately above each part's exact diff, say in plain words what it changes and why. Each diff names the file it changes, with its path from the top of the repository. Leave out bookkeeping such as version numbers and the changelog, which are updated as a matter of course.
-
-When a change is approved, update this README (the table below and anything else the change affects) and `CHANGELOG.md` in the same change.
-
-Several sessions change this repository, sometimes at the same time. Fetch the latest version immediately before editing, read anything that changed in the files you're about to touch, and push straight after.
+Suggest improvements freely, whenever you see one. We want this repository to be excellent and expect it to change often. Every change still needs the owner's approval (see the notice above). Before proposing or making one, read `CONTRIBUTING.md`.
 
 When an improvement you're making in a project would suit any project (a better way to run the task board, say), propose it here first. Once it's approved, bring the project you're working in into line with the updated practices, rather than making the change in the project alone.
 
@@ -36,9 +28,9 @@ Look for such improvements at two moments: when you finish a piece of work, whil
 
 | Practice | Status | Version |
 | --- | --- | --- |
-| [Task board](practices/task-board.md) | **Encouraged** | 1.8 (19 Oct 2026) |
+| [Task board](practices/task-board.md) | **Encouraged** | 1.9 (20 Oct 2026) |
 | [Style guide](practices/style-guide.md) | **Encouraged** | 1 (18 Oct 2026) |
-| [Risk list](practices/risk-list.md) | **Situational** | 1 (18 Oct 2026) |
+| [Risk list](practices/risk-list.md) | **Situational** | 1.1 (20 Oct 2026) |
 
 **Encouraged** practices are likely to suit most projects. **Situational** ones suit some projects and not others.
 
@@ -52,7 +44,7 @@ Whenever a project adapts or leaves out a practice, it records what it does diff
 
 ## Starting a project
 
-Go through the practices as described under Practices above, and set up those that suit the project, using their templates. Add a line to the project's own instructions: "This project follows ai-working-practices. Read its README at the start of every conversation, and check its CHANGELOG.md at least once a day in longer work." Record the version of each practice the project follows (for the task board, in its header).
+Go through the practices as described under Practices above, and set up those that suit the project, using their templates. Add a line to the project's own instructions: "This project follows ai-working-practices. Read its README at the start of every conversation, and check its CHANGELOG.md at least once a day in longer work." Record the version of each practice the project follows, and the number of the latest `CHANGELOG.md` entry (for the task board, in its header).
 
 Keep the project's own instructions for AI agents in `AGENTS.md` at the top of the project, the shared file name many AI tools read. Where a tool reads a file of its own (for example `CLAUDE.md`), keep that file to a line pointing to `AGENTS.md`, so every tool follows the same instructions. Where the project's material isn't in files (a chat tool's project, say), keep the instructions wherever that tool reads them. Where a project has both, such as a repository also worked on through a chat tool's project, keep the instructions in `AGENTS.md`, and keep the chat tool's instructions to a line saying where to find it.
 
@@ -62,6 +54,6 @@ Standing instruction, to paste into an AI tool's personal or custom instructions
 
 ## When a practice changes
 
-Each change is listed in `CHANGELOG.md`, ending with what existing projects should do: **Existing projects: update** (bring the project in line) or **Existing projects: no action needed**, either sometimes followed by a short detail. A new practice also says **New projects: consider it**. At the start of every conversation (a conversation resumed from a summary of an earlier one counts as new), and at least once a day in longer work, compare the project's recorded versions with the table above. If a change marked "update" is missing, first consider whether it improves this project. If it does, tell the owner and bring the project in line, under that project's own rules. If it doesn't, don't apply it: raise the concern with the owner instead, since the change may not suit every project and may need revising. Once the project is in line, record the new version in it, including after a change that needs no other action.
+Each change is listed in `CHANGELOG.md`, numbered and newest first, ending with what existing projects should do: **Existing projects: update** (bring the project in line) or **Existing projects: no action needed**, either sometimes followed by a short detail. A new practice also says **New projects: consider it**. Each project records the number of the latest entry it has dealt with, beside its practice versions. At the start of every conversation (a conversation resumed from a summary of an earlier one counts as new), and at least once a day in longer work, read the entries above that number. For each one marked "update", first consider whether it improves this project. If it does, tell the owner and bring the project in line, under that project's own rules. If it doesn't, don't apply it: raise the concern with the owner instead, since the change may not suit every project and may need revising. Then record the new versions and the latest entry number, including when no entry needed any action. If you can't reach this repository, tell the owner and carry on with the versions the project has recorded.
 
 Any project may likewise stay on an earlier version of a practice, or stop using it, on the terms under Practices above.

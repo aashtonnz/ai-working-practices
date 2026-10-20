@@ -1,15 +1,15 @@
 # Tasks
 
-Last updated: 2026-10-19 (Pacific/Auckland)
-Follows: task board v1.8 (ai-working-practices)
-Caught up to: 5174c78
+Last updated: 2026-10-20 (Pacific/Auckland)
+Follows: task board v1.9 (ai-working-practices), changelog to entry 32
+Caught up to: ee92623
 
 ## Doing (at most 3)
 
 ## Waiting on you
+- T-3: Accounts and secrets: a practice for tracking secrets, tokens, email addresses, recovery documents and accounts (GitHub, Cloudflare, social media), without holding any values. Agreed so far: a register of what exists and where each value is kept, never the values; values stay in Apple Passwords, in a group of their own. Needed: one central private register shared by all projects, or one per project? Suggested: one central register, since accounts like GitHub and Cloudflare serve many projects, with each project's instructions pointing to it. Raised 2026-10-18.
 
 ## Next (in order, at most about 10)
-- T-3: Accounts and secrets: a practice for tracking secrets, tokens, email addresses, recovery documents and accounts (GitHub, Cloudflare, social media), without holding any values. Paused 2026-10-18. Agreed so far: a register of what exists and where each value is kept, never the values; values stay in Apple Passwords, in a group of their own. Open: one central private register shared by all projects, or one per project.
 
 ## Planned (after Next, by phase)
 
@@ -17,6 +17,7 @@ Caught up to: 5174c78
 - A rule that the AI never opens, searches or reads notes apps or other personal stores, working only with what the person pastes or attaches. Raised under Personal notes.
 
 ## Done (last two weeks, newest first)
+- T-12: Review follow-ups: changelog numbered with a "changelog to entry N" marker, old labels standardised, risk IDs (risk list 1.1), task board 1.9 gaps filled, clashing sessions and an unreachable repository covered, change rules moved to `CONTRIBUTING.md`, `CHANGELOG.md` serves as this project's decision log; the style guide stays Encouraged. [CHANGELOG](../CHANGELOG.md) 2026-10-20.
 - T-11: Housekeeping from the review: changelog labels described as used, fetch-before-editing sentence, `CLAUDE.md` points to `AGENTS.md`, and a pointer doc in the claude.ai Project. [README](../README.md#for-ai-agents) 2026-10-19.
 - T-10: Purpose stated: the README says the repository is a library a project draws on, and that the README and each practice stay short. [README](../README.md) 2026-10-19.
 - T-9: Decision log defined: task board 1.8 says where the log lives and what a line holds, so the references to it point at something. [practices/task-board.md](../practices/task-board.md) 2026-10-19.

@@ -1,12 +1,12 @@
 # Task board
 
-Version 1.8, 19 Oct 2026.
+Version 1.9, 20 Oct 2026.
 
 One short living document showing what is being done now, what is next, and what is waiting on the person, kept wherever the project's material lives: a file in a repository or folder (for example `TASKS.md`), a document in a chat tool's project, or a shared document. The AI reads it when it starts work and keeps it up to date. Where it can't write there, it gives the updated board for you to save. It works like a text kanban board that a person can scan in a minute and an AI can read at the start of every conversation.
 
 ## The rules, and why
 
-1. **Every task has a permanent ID and a short name** (for example, T-14: Threat model). Numbers are never reused, and a new task takes the next free number wherever it sits in the order. When a task is dropped or merged, note its ID as retired in one line. When talking to the person, call a task by its name, with the ID in brackets if useful. The same goes for anything else the project numbers, such as decisions and risks.
+1. **Every task has a permanent ID and a short name** (for example, T-14: Threat model). Numbers are never reused, and a new task takes the next free number wherever it sits in the order. When a task is dropped or merged, note its ID as retired in one line at the foot of the board. When talking to the person, call a task by its name, with the ID in brackets if useful. The same goes for anything else the project numbers, such as decisions and risks.
    *Why:* commits and notes can point at "T-14", and the reference survives reordering, but an ID alone means nothing to someone who hasn't memorised the board. A missing number is never a mystery.
 2. **Doing holds at most three tasks.**
    *Why:* more than three in progress usually means none of them is moving.
@@ -28,7 +28,7 @@ One short living document showing what is being done now, what is next, and what
     *Why:* the board changes daily; decisions need to stay findable.
 11. **Standing priorities, if any, go in a few lines at the top.**
     *Why:* they apply to every task, so they belong where every reader starts.
-12. **Ideas wait in Later, on the board.** "Later / ideas" holds things worth doing someday, on the board itself, never in a separate list. An idea gets an ID when it is scheduled into Next.
+12. **Ideas wait in Later, on the board.** "Later / ideas" holds things worth doing someday, on the board itself, never in a separate list. An idea gets an ID when it becomes a task, in Next or Planned.
     *Why:* good ideas have a home without crowding the plan, and stay where the person and the next AI session will see them.
 13. **Nothing the person asked for leaves the board without them knowing.** Every request or decision that needs work becomes a task, or a line in Later, on the board the same day. Moving something out of Next, off the board or into another file is told to the person at the time, with the reason.
     *Why:* work that slips out of sight is forgotten first by the AI, and the person finds out only when they ask.
@@ -41,7 +41,7 @@ One short living document showing what is being done now, what is next, and what
 # Tasks
 
 Last updated: YYYY-MM-DD (time zone)
-Follows: task board v1.8 (ai-working-practices)
+Follows: task board v1.9 (ai-working-practices), changelog to entry N
 
 Standing priorities:
 - ...
@@ -54,7 +54,7 @@ Standing priorities:
 
 ## Next (in order, at most about 10)
 - T-08: what it is.
-- Gate A: the question. If no: what happens instead.
+- T-10: Gate: the question. If no: what happens instead.
 - T-09: what it is.
 
 ## Planned (after Next, by phase)
@@ -66,4 +66,6 @@ Phase name:
 
 ## Done (last two weeks, newest first)
 - T-05: the result, in one line. [link to output](...) YYYY-MM-DD.
+
+Retired: T-03 (merged into T-07), T-06 (dropped).
 ```
