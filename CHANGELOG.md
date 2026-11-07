@@ -2,6 +2,7 @@
 
 Numbered, newest first. Each entry says whether existing projects should update.
 
+- 35. 7 Nov 2026. Fresh-eyes review 1.1: after a serious finding (an error that would otherwise have gone unnoticed) is fixed, the work is reviewed again by a fresh reviewer, until a review finds none, since fixes bring errors of their own; lesser findings are fixed with their checks, without another review. Existing projects: no action needed.
 - 34. 7 Nov 2026. Fresh-eyes review, version 1: Situational. Before significant work leaves the author's hands or becomes the foundation for much more, someone who did not do it reviews it from the work itself, not the author's account; findings come with evidence, are checked before acting, and each fix gets a check that fails before and passes after. New projects: consider it. Existing projects: no action needed; consider it where undetected errors would be costly.
 - 33. 6 Nov 2026. Task board 1.10: at the start of a conversation, each Waiting on you item is checked against the project's state before being raised again, since the person may have done it without saying so. Existing projects: no action needed.
 - 32. 20 Oct 2026. README and task board 1.9: changelog entries are numbered; each project records the number of the latest entry it has dealt with, beside its practice versions (on the task board, "changelog to entry N" in the Follows line), and at each check reads only the entries above it. Existing projects: update; record "changelog to entry 32".

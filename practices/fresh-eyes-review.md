@@ -1,6 +1,6 @@
 # Fresh-eyes review
 
-Version 1, 7 Nov 2026.
+Version 1.1, 7 Nov 2026.
 
 Before a significant piece of work leaves the author's hands, or becomes the foundation for much more, someone who did not do it reviews it, starting from the work itself rather than from the author's account of it. The reviewer can be a separate AI agent, a new conversation or a person. Suits work where an undetected error would spread or be costly, such as analysis, data, code others depend on, or a document going out; small or routine work rarely needs one.
 
@@ -13,7 +13,8 @@ Before a significant piece of work leaves the author's hands, or becomes the fou
 3. **Ask for findings ranked by seriousness, each with its evidence and marked as confirmed or suspected, plus what was checked and found correct, and what could not be checked and why.**
    *Why:* evidence lets each finding be checked quickly; the lists of what was found correct and what was not checked show how far the review can be trusted.
 4. **Check each finding before acting on it. Each fix gets its own task, and where it can, a check that fails before the fix and passes after.**
-   *Why:* reviewers are wrong too, and a fix without a failing check may not fix anything.
+   **If a finding was serious (an error that would otherwise have gone unnoticed), review again after the fixes, with a fresh reviewer, until a review finds none. Lesser findings are fixed with their checks, without another review.**
+   *Why:* reviewers are wrong too, a fix without a failing check may not fix anything, and fixes bring errors of their own.
 5. **Record the review and what came of it, including findings set aside and why, and tell the person the outcome.**
    *Why:* it shows what has been checked, and stops the same question being raised again.
 
