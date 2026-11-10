@@ -1,6 +1,6 @@
 # Task board
 
-Version 1.10, 6 Nov 2026.
+Version 1.11, 10 Nov 2026.
 
 One short living document showing what is being done now, what is next, and what is waiting on the person, kept wherever the project's material lives: a file in a repository or folder (for example `TASKS.md`), a document in a chat tool's project, or a shared document. The AI reads it when it starts work and keeps it up to date. Where it can't write there, it gives the updated board for you to save. It works like a text kanban board that a person can scan in a minute and an AI can read at the start of every conversation.
 
@@ -20,8 +20,8 @@ One short living document showing what is being done now, what is next, and what
    *Why:* small tasks show real progress and surface problems early.
 7. **Done shows evidence.** Each finished task has a one-line result, a link to its output (a file, commit, document or page) and the date.
    *Why:* "done" becomes something anyone can check, not just a claim.
-8. **Keep it short.** Move Done items older than about two weeks to an archive file (for example `TASKS-archive.md`), unchanged. Aim for everything above Planned to fit on a screen.
-   *Why:* a board that cannot be scanned quickly stops being read.
+8. **Keep it short, in lines and in length.** Each task's line is a sentence or two: what it is, where it stands and the next step. Its history and detail go in the plan file, not on the board. Move Done items older than about two weeks to an archive file (for example `TASKS-archive.md`), unchanged. Aim for everything above Planned to fit on a screen. A project that enforces a size limit sets it on the length of each line and on the sections above Planned, not on the whole board, since Planned grows with the plan.
+   *Why:* a board that cannot be scanned quickly stops being read, and a line that gathers a task's history grows without limit while the line count stays the same.
 9. **Update it in the same change as the work, and date it.** The board carries a "last updated" date, with the time zone. If it is found out of date, fix it before anything else.
    *Why:* a stale board misleads both the person and the next AI session.
 10. **Decisions go in a decision log, not on the board.** Record significant choices in a file next to the board (for example `DECISIONS.md`), newest first, one dated line each with a permanent ID and a short name (for example, D-4: How understanding is judged): what was decided and why, in a sentence or two. Link to them from tasks where useful.
@@ -41,7 +41,7 @@ One short living document showing what is being done now, what is next, and what
 # Tasks
 
 Last updated: YYYY-MM-DD (time zone)
-Follows: task board v1.10 (ai-working-practices), changelog to entry N
+Follows: task board v1.11 (ai-working-practices), changelog to entry N
 
 Standing priorities:
 - ...
