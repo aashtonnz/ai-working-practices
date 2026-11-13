@@ -29,7 +29,7 @@ Look for such improvements at two moments: when you finish a piece of work, whil
 | Practice | Status | Version |
 | --- | --- | --- |
 | [Task board](practices/task-board.md) | **Encouraged** | 1.11 (10 Nov 2026) |
-| [Style guide](practices/style-guide.md) | **Encouraged** | 1 (18 Oct 2026) |
+| [Style guide](practices/style-guide.md) | **Encouraged** | 1.1 (13 Nov 2026) |
 | [Risk list](practices/risk-list.md) | **Situational** | 1.1 (20 Oct 2026) |
 | [Fresh-eyes review](practices/fresh-eyes-review.md) | **Situational** | 1.1 (7 Nov 2026) |
 
@@ -41,7 +41,7 @@ Look for such improvements at two moments: when you finish a piece of work, whil
 - **It would suit the project with changes.** If the changes would suit every project, propose them here first, and adopt the improved practice once it's approved. If they suit only this project, adopt the practice with those changes.
 - **It doesn't suit the project.** Leave it out. First check whether what the project needs instead would suit every project, and if so propose it here.
 
-Whenever a project adapts or leaves out a practice, it records what it does differently and why, in its own instructions or decision log, and tells the owner, who can judge whether the practice needs revising. Convenience alone is not a reason.
+Whenever a project adapts or leaves out a practice, it records what it does differently and why, in its own instructions or decision log, and tells the owner, who can judge whether the practice needs revising. Convenience alone is not a reason. A practice left out because it does not apply yet is recorded with what would make it apply, and is reconsidered whenever the project starts making something new.
 
 ## Starting a project
 

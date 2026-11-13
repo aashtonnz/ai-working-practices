@@ -1,10 +1,10 @@
 # Style guide
 
-Version 1, 18 Oct 2026.
+Version 1.1, 13 Nov 2026.
 
 How a project looks, feels and communicates with the people who use it: apps, websites, documents, emails (including automated ones), notifications, confirmations and error messages.
 
-**External only.** This guide applies only to what people outside the project see: users, customers and the public, including public documentation and READMEs. It does not apply in any way to communication among the people working on the project, including the AI. Task boards, commit messages, internal notes and conversations follow their own conventions.
+**For anything made to be read or used.** This guide applies to what the project makes for a reader: users, customers and the public, including public documentation and READMEs. It also applies to anything built for the project's own owner to look at or use, such as a dashboard, a report or a status page. It does not apply to working material: task boards, commit messages, internal notes and conversations follow their own conventions.
 
 **Entirely optional.** A project may follow this guide, adapt it, or ignore it completely. A project that already has its own look and voice doesn't necessarily need to change it.
 
@@ -35,7 +35,7 @@ Whatever else applies, keep things usable by people with disabilities, such as l
 - No completeness claims ("every", "all", "any") unless literally true.
 - Concrete nouns and numbers over abstract claims.
 - Keep what exists separate from what's planned, and label plans as plans.
-- Everything a user sees is about the user. The builders' inner monologue stays in internal docs.
+- Everything a user sees is about the user, in words the user already knows. The builders' inner monologue, their names for things and their reference numbers stay in internal docs.
 - One name for one thing: call each feature, button or idea the same thing everywhere.
 
 ## Project style note
