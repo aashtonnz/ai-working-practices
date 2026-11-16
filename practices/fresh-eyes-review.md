@@ -1,8 +1,8 @@
 # Fresh-eyes review
 
-Version 1.1, 7 Nov 2026.
+Version 1.2, 16 Nov 2026.
 
-Before a significant piece of work leaves the author's hands, or becomes the foundation for much more, someone who did not do it reviews it, starting from the work itself rather than from the author's account of it. The reviewer can be a separate AI agent, a new conversation or a person. Suits work where an undetected error would spread or be costly, such as analysis, data, code others depend on, or a document going out; small or routine work rarely needs one.
+Before a significant piece of work leaves the author's hands, or becomes the foundation for much more, someone who did not do it reviews it, starting from the work itself rather than from the author's account of it. The reviewer can be a separate AI agent, a new conversation or a person; an AI reviewer uses the most capable model available for that kind of work, even when the work itself was done with a lighter one. Suits work where an undetected error would spread or be costly, such as analysis, data, code others depend on, or a document going out; small or routine work rarely needs one.
 
 ## The rules, and why
 
