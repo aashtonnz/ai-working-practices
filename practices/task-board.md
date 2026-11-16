@@ -1,6 +1,6 @@
 # Task board
 
-Version 1.11, 10 Nov 2026.
+Version 1.12, 16 Nov 2026.
 
 One short living document showing what is being done now, what is next, and what is waiting on the person, kept wherever the project's material lives: a file in a repository or folder (for example `TASKS.md`), a document in a chat tool's project, or a shared document. The AI reads it when it starts work and keeps it up to date. Where it can't write there, it gives the updated board for you to save. It works like a text kanban board that a person can scan in a minute and an AI can read at the start of every conversation.
 
@@ -10,8 +10,8 @@ One short living document showing what is being done now, what is next, and what
    *Why:* commits and notes can point at "T-14", and the reference survives reordering, but an ID alone means nothing to someone who hasn't memorised the board. A missing number is never a mystery.
 2. **Doing holds at most three tasks.**
    *Why:* more than three in progress usually means none of them is moving.
-3. **Next is in order and short, about ten tasks at most, and every other open task is still on the board.** Tasks beyond Next sit in a Planned section, one line each, grouped by phase. Their full descriptions go in a plan file (for example `PLAN.md`); the board gives each one line.
-   *Why:* Next stays readable, but no task lives only in the plan, where it is easily forgotten, and keeping the detail in one place stops the two drifting apart.
+3. **Next is in order and short, about ten tasks at most, and every other open task is still on the board.** Tasks beyond Next sit in a Planned section, one line each, grouped by phase. Their full descriptions go in a plan file (for example `PLAN.md`); the board gives each one line. Write and revise the plan with the most capable model available; an AI on a lighter one tells the person before planning.
+   *Why:* Next stays readable, but no task lives only in the plan, where it is easily forgotten, and keeping the detail in one place stops the two drifting apart. Everything later rests on the plan, so a weak one costs far more than the stronger model does.
 4. **Waiting on you is its own section.** Anything that needs the person's decision, approval or action goes here, dated, saying exactly what is needed, with a suggested answer when there is one. At the start of a conversation, check each item against the project's state before raising it again, since the person may have done it without saying so.
    *Why:* requests buried inside other tasks are easy to miss, and work stalls silently; and an item already dealt with but still listed makes the person repeat themselves.
 5. **Gates are listed as tasks.** A gate is a checkpoint question whose answer decides whether the plan continues as it is ("Is it fast enough? If not, rethink before building more"). When a gate is passed, record the answer under Done.
@@ -41,7 +41,7 @@ One short living document showing what is being done now, what is next, and what
 # Tasks
 
 Last updated: YYYY-MM-DD (time zone)
-Follows: task board v1.11 (ai-working-practices), changelog to entry N
+Follows: task board v1.12 (ai-working-practices), changelog to entry N
 
 Standing priorities:
 - ...
